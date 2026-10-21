@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "ibis-project",
+  "repo": "ibis-flink-tutorial",
+  "versions": [
+    {
+      "commit": "08cfeef6daf18922b9b3a876db1cdbb1d339978b",
+      "parsed_at": "2026-10-21T20:06:03.315890+00:00",
+      "filetree": "filetree/08cfeef6daf18922b9b3a876db1cdbb1d339978b.nq.gz",
+      "blobs": [
+        "blob/903209b9dfb1ead2d16af2c39605afe3af03ca72.nq.gz",
+        "blob/d969c3def12e72fe799bf80d9a46fb3898c99217.nq.gz",
+        "blob/f5477dedc29ecb99ffb12f804aba1f0d29d3f5f7.nq.gz",
+        "blob/ccf09a7c4651293940434b0735058f083ef1c2d1.nq.gz",
+        "blob/2c75c428a7e2f93f54dc7bbe167147dabd38cd75.nq.gz",
+        "blob/9e2ff02105f3c741b00bafe2e27adb5983b2f2eb.nq.gz",
+        "blob/b14d4b2760fe2ef5ad167d3cac3af217ab95e2f6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
